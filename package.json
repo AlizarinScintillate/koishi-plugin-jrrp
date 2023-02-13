@@ -30,7 +30,7 @@
   "scripts": {},
   "koishi": {
     "description": {
-      "zh": "今日人品插件"
+      "zh": "诸葛神签"
     }
   },
   "peerDependencies": {
