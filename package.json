@@ -1,14 +1,14 @@
 {
-  "name": "koishi-plugin-jrrp",
+  "name": "koishi-plugin-qiuqian",
   "version": "1.1.1",
-  "description": "That \"jrrp\" for Koishi.js.",
+  "description": "That \"qiuqian\" for Koishi.js.",
   "author": "i'DLisT <me@idl.ist> (https://idl.ist/)",
   "license": "MIT",
   "keywords": [
     "koishi.js",
     "koishi",
     "plugin",
-    "jrrp",
+    "qiuqian",
     "fortune"
   ],
   "main": "index.js",
@@ -21,12 +21,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idlist/koishi-plugin-jrrp.git"
+    "url": "git+https://github.com/idlist/koishi-plugin-qiuqian.git"
   },
   "bugs": {
-    "url": "https://github.com/idlist/koishi-plugin-jrrp/issues"
+    "url": "https://github.com/idlist/koishi-plugin-qiuqian/issues"
   },
-  "homepage": "https://github.com/idlist/koishi-plugin-jrrp#readme",
+  "homepage": "https://github.com/idlist/koishi-plugin-qiuqian#readme",
   "scripts": {},
   "koishi": {
     "description": {
